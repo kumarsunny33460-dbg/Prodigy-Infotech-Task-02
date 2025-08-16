@@ -29,15 +29,18 @@ The generated images are available inside the [`generated_images/`](generated_im
 
 ### 🔹 Image 1
 **Prompt:** *"An ancient stone temple hidden deep in the jungle with sunlight shining through the trees."*  
-![Image 1](generated_images/img_1.png)
+![Image 1]![img_1_small](https://github.com/user-attachments/assets/79a82105-68f8-407a-96b1-23cb4e5c8ff4)
+
 
 ### 🔹 Image 2
 **Prompt:** *"A cozy pastel-colored bedroom full of indoor plants and a white cat sitting on the bed."*  
-![Image 2](generated_images/img_2.png)
+![Image 2]![img_2_small](https://github.com/user-attachments/assets/7c96651c-de23-4f51-b4e7-73cffa18cbbd)
+
 
 ### 🔹 Image 3
 **Prompt:** *"An astronaut in a garden surrounded by flowers and plants, wearing a spacesuit with the US flag."*  
-![Image 3](generated_images/img_3.png)
+![Image 3]![img_3_small](https://github.com/user-attachments/assets/72cfcc69-4f1e-4597-aab2-be64a5049a35)
+
 
 ---
 
