@@ -29,7 +29,7 @@ The generated images are available inside the [`generated_images/`](generated_im
 
 ### 🔹 Image 1
 **Prompt:** *"An ancient stone temple hidden deep in the jungle with sunlight shining through the trees."*  
-![Image 1]![img_1_small](https://github.com/user-attachments/assets/79a82105-68f8-407a-96b1-23cb4e5c8ff4)
+![Image 3]![img_3_small](https://github.com/user-attachments/assets/72cfcc69-4f1e-4597-aab2-be64a5049a35)
 
 
 ### 🔹 Image 2
@@ -39,9 +39,7 @@ The generated images are available inside the [`generated_images/`](generated_im
 
 ### 🔹 Image 3
 **Prompt:** *"An astronaut in a garden surrounded by flowers and plants, wearing a spacesuit with the US flag."*  
-![Image 3]![img_3_small](https://github.com/user-attachments/assets/72cfcc69-4f1e-4597-aab2-be64a5049a35)
-
-
+![Image 1]![img_1_small](https://github.com/user-attachments/assets/79a82105-68f8-407a-96b1-23cb4e5c8ff4)
 ---
 
 ## 📓 Notebook
